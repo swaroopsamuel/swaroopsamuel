@@ -1,3 +1,5 @@
+![Header](https://github.com/swaroopsamuel/swaroopsamuel/blob/main/Make%20your%20README.png)
+
 <h2 align="left">Hey 👋 I'm Swaroop
 "An analytical mind with a knack for uncovering hidden stories in data, on a mission to become a data analyst!"
 from Kolkata.</h2>
