@@ -1,9 +1,5 @@
 ![Header](https://github.com/swaroopsamuel/swaroopsamuel/blob/main/Make%20your%20README.png)
 
-<h2 align="left">Hey 👋 I'm Swaroop
-"An analytical mind with a knack for uncovering hidden stories in data, on a mission to become a data analyst!"
-from Kolkata.</h2>
-
 ### 
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlzamowdDFqbWxjeDhhZzdxNDVuNmpwMW82em9kbno3YTFhYmt0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
